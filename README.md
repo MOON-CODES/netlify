@@ -1,7 +1,7 @@
 
 Click the button below and it will help you create a new repo, create a new Netlify project, and deploy this Theme!
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/MOON-CODES/listen-together-s-&utm_source=github&utm_medium=matter-design-theme-repo&utm_campaign=template-team)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/MOON-CODES/listen-together&utm_source=github&utm_medium=matter-design-theme-repo&utm_campaign=template-team)
 
 ## Regular Setup
 
